@@ -2,4 +2,4 @@
 *.intunewin
 
 # Drivers
-Drivers
+Drivers/*
