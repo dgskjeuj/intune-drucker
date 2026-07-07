@@ -1,2 +1,5 @@
-.intunewin
+# Packaged Apps
+*.intunewin
+
+# Drivers
 /Drivers
